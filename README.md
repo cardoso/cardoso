@@ -1,4 +1,4 @@
-![GitHub followers](https://img.shields.io/github/followers/cardoso?style=social) <a href="https://twitter.com/intent/follow?screen_name=cardosodev"><img src="https://img.shields.io/twitter/follow/cardosodev.svg?label=Follow%20@cardosodev" alt="Follow @cardosodev"></img>
+<a href="https://twitter.com/intent/follow?screen_name=cardosodev"><img src="https://img.shields.io/twitter/follow/cardosodev.svg?label=Follow%20@cardosodev" alt="Follow @cardosodev"></img>
 
 <!--
 **cardoso/cardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
