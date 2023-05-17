@@ -1,4 +1,6 @@
-<a href="https://twitter.com/intent/follow?screen_name=cardosodev"><img src="https://img.shields.io/twitter/follow/cardosodev.svg?label=Follow%20@cardosodev" alt="Follow @cardosodev"></img>
+![https://linkedin.com/in/cardosodev](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+
 
 <!--
 **cardoso/cardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
