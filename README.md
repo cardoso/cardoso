@@ -1,4 +1,4 @@
-- 👯 contributing to [Lightning Web Components](https://github.com/search?q=org%3Asalesforce+author%3Acardoso+is%3Amerged&type=pullrequests&s=created&o=desc)
+- 👯 contributing to [Lightning Web Components](https://github.com/search?q=org%3Asalesforce+author%3Acardoso+is%3Amerged&type=pullrequests&s=updated&o=desc)
 - 🔭 working on [Vite Plugin LWC](https://github.com/cardoso/vite-plugin-lwc)
 - 📫 reach me: matheus@cardo.so
 
