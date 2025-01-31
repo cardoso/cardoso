@@ -1,6 +1,8 @@
+- 👯 contributing to [Lightning Web Components](https://github.com/search?q=org%3Asalesforce+author%3Acardoso+is%3Amerged&type=pullrequests&s=created&o=desc)
+- 🔭 working on [Vite Plugin LWC](https://github.com/cardoso/vite-plugin-lwc)
+- 📫 reach me: matheus@cardo.so
+
 [![linkedin cardosodev](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cardosodev)
-
-
 
 <!--
 **cardoso/cardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
